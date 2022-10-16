@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Another Danger Slanted - Demo';
+	src: url(../../assets/fonts/fonts/Another-Danger-Slanted---Demo.eot) format('embedded-opentype'),
+	url(../../assets/fonts/fonts/Another-Danger-Slanted---Demo.eot) format('embedded-opentype'),
+	url(../../assets/fonts/fonts/Another-Danger-Slanted---Demo.woff2) format('woff2'),
+	url(../../assets/fonts/fonts/Another-Danger-Slanted---Demo.woff) format('woff'),
+	url(../../assets/fonts/fonts/Another-Danger-Slanted---Demo.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
